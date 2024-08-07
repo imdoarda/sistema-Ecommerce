@@ -17,6 +17,9 @@
   
    ![tela inicial](https://github.com/user-attachments/assets/3a51fbb9-bc8e-42d6-8e6f-75884cd3f8dc)>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+![image](https://github.com/user-attachments/assets/f4a269d7-2d94-497d-8bc1-c892c36e2984)
+
 
 ## Tabelas codificadas no banco de dados:
 
