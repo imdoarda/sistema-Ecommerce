@@ -14,7 +14,7 @@
   ``Veja abaixo o funcionamento do site: ``  
 
   
-  ![tela inicial](https://github.com/user-attachments/assets/3a51fbb9-bc8e-42d6-8e6f-75884cd3f8dc)
+  <img width = "400px" ![tela inicial](https://github.com/user-attachments/assets/3a51fbb9-bc8e-42d6-8e6f-75884cd3f8dc)>
 
 
 ## Tabelas codificadas no banco de dados:
