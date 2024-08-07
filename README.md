@@ -33,7 +33,7 @@
 ``visualização dessa tabela: ``       
 
 
-  <img src="Gravando 2024-08-06 230320.gif" width = "400px">
+  <img src="categorias.gif" width = "400px">
 
 
 ``TABELA PARA MARCA:``
