@@ -11,10 +11,11 @@
  ## Introdução
 
   Este projeto é um sistema para o cadastro de produtos de um supermercado, desenvolvido para gerenciar as informações dos produtos em um banco de dados. O sistema permite a inclusão, visualização e gerenciamento de categorias e marcas, além de armazenar detalhes dos produtos, como nome, descrição, estoque, preço, categoria e marca.
+  
   ``Veja abaixo o funcionamento do site: ``  
 
   
-  <img width = "400px" ![tela inicial](https://github.com/user-attachments/assets/3a51fbb9-bc8e-42d6-8e6f-75884cd3f8dc)>
+           ![tela inicial](https://github.com/user-attachments/assets/3a51fbb9-bc8e-42d6-8e6f-75884cd3f8dc)>
 
 
 ## Tabelas codificadas no banco de dados:
@@ -30,7 +31,7 @@
 ``visualização dessa tabela: ``  
 
 
-![Gravando 2024-08-06 230320](https://github.com/user-attachments/assets/94f9a401-b19e-4b3f-844a-6f258accd4c2)
+          ![Gravando 2024-08-06 230320](https://github.com/user-attachments/assets/94f9a401-b19e-4b3f-844a-6f258accd4c2)
 
 
 ``TABELA PARA MARCA:``
@@ -44,7 +45,7 @@
 ``visualização dessa tabela: ``  
 
 
-![marca](https://github.com/user-attachments/assets/b44ff605-a771-4123-80e8-bad7239c1df5)
+          ![marca](https://github.com/user-attachments/assets/b44ff605-a771-4123-80e8-bad7239c1df5)
 
   
 ``TABELA PARA PRODUTOS:``
@@ -67,7 +68,7 @@
 ``visualização dessa tabela: ``  
 
 
-![produtos](https://github.com/user-attachments/assets/b18a1e69-9cca-4a85-9e9f-6ad3a7a5298a)
+         ![produtos](https://github.com/user-attachments/assets/b18a1e69-9cca-4a85-9e9f-6ad3a7a5298a)
 
 
 
