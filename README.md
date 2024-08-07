@@ -15,7 +15,7 @@
   ``Veja abaixo o funcionamento do site: ``     
 
 
-<img src="tela inicial.gif" width = "400px">              
+<img src="tela inicial.gif" width = "1000px">              
 
 
 
@@ -33,7 +33,7 @@
 ``visualização dessa tabela: ``       
 
 
-  <img src="categorias.gif" width = "400px">
+  <img src="categorias.gif" width = "1000px">
 
 
 ``TABELA PARA MARCA:``
@@ -70,7 +70,7 @@
 ``visualização dessa tabela: ``        
 
 
-   <img src="produtos.gif" width = "400px">
+   <img src="produtos.gif" width = "1000px">
 
 
 
