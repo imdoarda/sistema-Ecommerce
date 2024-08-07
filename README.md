@@ -47,7 +47,7 @@
 ``visualização dessa tabela: ``      
 
 
-   <img src="marca.gif" width = "400px">
+   <img src="marca.gif" width = "1000px">
 
   
 ``TABELA PARA PRODUTOS:``
