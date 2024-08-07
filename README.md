@@ -15,12 +15,9 @@
   ``Veja abaixo o funcionamento do site: ``     
 
 
-![image](https://github.com/user-attachments/assets/f4a269d7-2d94-497d-8bc1-c892c36e2984)              
+<img src="tela inicial.gif" width = "400px">              
 
 
-  
-
-  ![tela inicial](https://github.com/user-attachments/assets/3a51fbb9-bc8e-42d6-8e6f-75884cd3f8dc)>
 
 
 ## Tabelas codificadas no banco de dados:
@@ -36,7 +33,7 @@
 ``visualização dessa tabela: ``       
 
 
-  ![Gravando 2024-08-06 230320](https://github.com/user-attachments/assets/94f9a401-b19e-4b3f-844a-6f258accd4c2)
+  <img src="Gravando 2024-08-06 230320.gif" width = "400px">
 
 
 ``TABELA PARA MARCA:``
@@ -50,7 +47,7 @@
 ``visualização dessa tabela: ``      
 
 
-   ![marca](https://github.com/user-attachments/assets/b44ff605-a771-4123-80e8-bad7239c1df5)
+   <img src="marca.gif" width = "400px">
 
   
 ``TABELA PARA PRODUTOS:``
@@ -73,7 +70,7 @@
 ``visualização dessa tabela: ``        
 
 
-   ![produtos](https://github.com/user-attachments/assets/b18a1e69-9cca-4a85-9e9f-6ad3a7a5298a)
+   <img src="produtos.gif" width = "400px">
 
 
 
