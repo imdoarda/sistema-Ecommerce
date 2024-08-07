@@ -12,13 +12,15 @@
 
   Este projeto é um sistema para o cadastro de produtos de um supermercado, desenvolvido para gerenciar as informações dos produtos em um banco de dados. O sistema permite a inclusão, visualização e gerenciamento de categorias e marcas, além de armazenar detalhes dos produtos, como nome, descrição, estoque, preço, categoria e marca.
   
-  ``Veja abaixo o funcionamento do site: ``       
+  ``Veja abaixo o funcionamento do site: ``     
 
-  
-   ![tela inicial](https://github.com/user-attachments/assets/3a51fbb9-bc8e-42d6-8e6f-75884cd3f8dc)>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-![image](https://github.com/user-attachments/assets/f4a269d7-2d94-497d-8bc1-c892c36e2984)
+![image](https://github.com/user-attachments/assets/f4a269d7-2d94-497d-8bc1-c892c36e2984)              
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>     
+
+  ![tela inicial](https://github.com/user-attachments/assets/3a51fbb9-bc8e-42d6-8e6f-75884cd3f8dc)>
 
 
 ## Tabelas codificadas no banco de dados:
