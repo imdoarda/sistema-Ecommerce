@@ -14,7 +14,7 @@
   
   ``Veja abaixo o funcionamento do site: ``     
 
-    ![Captura de tela 2024-08-06 235948](https://github.com/user-attachments/assets/38a8a218-b5c5-4a19-bd53-d1bfd4e8b710)
+   ![Captura de tela 2024-08-06 235948](https://github.com/user-attachments/assets/38a8a218-b5c5-4a19-bd53-d1bfd4e8b710)
 
 
 
